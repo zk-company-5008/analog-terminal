@@ -1,0 +1,10 @@
+#netty相关配置
+netty:
+  #IP地址
+  host: 127.0.0.1
+  #端口号
+  port: 10000
+  #重连间隔（毫秒）
+  reconnect: 10000
+  #发送数据条数
+  sendNum: 50000
